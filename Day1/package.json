@@ -1,0 +1,19 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "AoC Day 1",
+  "main": "day1a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TKOLLER22/aoc.git"
+  },
+  "author": "Tomas Koller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TKOLLER22/aoc/issues"
+  },
+  "homepage": "https://github.com/TKOLLER22/aoc#readme"
+}
